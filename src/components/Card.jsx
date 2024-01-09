@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import StarRatings from 'react-star-ratings';
 import imagx from "../images/images.jpg";
-import png from '../images/Group 1437.png'
 
 class Card extends Component {
     constructor(props){
@@ -11,7 +10,7 @@ class Card extends Component {
     render() { 
         return (
             <div className='card flex'>
-                <img className='productimg' src={png} alt='Prod'/>
+                <img className='productimg' src={this.props.prod.img} alt='Prod'/>
                 <img className='imgx' src={imagx} alt='Prod'/>
                 <p className='descrip'>{this.props.prod.description}</p>
                 <div className='price-logo'>

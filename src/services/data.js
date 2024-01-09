@@ -72,7 +72,7 @@ export const data = [{
           salePercent:"30",
           size: ['Small', 'Medium', 'Large', 'XLarge', 'XXLarge'],
           color: ['Black', 'white'],
-          img: 'https://eyess.cc/wp-content/uploads/2019/08/1815-8.jpg',
+          img: 'https://api.yeshtery.com/v1/yeshtery/files/31/bb6a28f6-b359-4b02-b468-826bd29e23a4.jpeg?width=258&height=254',
           location: 'Pickup From Mall of Egypt'
       }]
   }];
