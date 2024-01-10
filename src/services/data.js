@@ -30,8 +30,8 @@ export const data = [{
           salePercent:"30",
           size: ['Small', 'Medium', 'Large', 'XLarge', 'XXLarge'],
           color: ['Black', 'white'],
-          img: 'https://knoww.cc/wp-content/uploads/2019/07/10405.jpg',
-          location: 'Pickup From Mall of Arab'
+          img: 'https://api.yeshtery.com/v1/yeshtery/files/67/50144-1-8485afcde3df419e9391fc8a6eb67b7e.jpg?width=258&height=254',
+          location: 'Pickup From Any Place'
       },
       {
           logo: "https://turbologo.com/articles/wp-content/uploads/2019/07/Three-Bars-adidas-logo-1.jpg.webp",
@@ -44,8 +44,8 @@ export const data = [{
           salePercent:"30",
           size: ['Small', 'Medium', 'Large', 'XLarge', 'XXLarge'],
           color: ['Black', 'white'],
-          img: 'https://7loo.net/wp-content/uploads/2019/08/2654-11.jpg',
-          location: 'Pickup From Mall of Egypt'
+          img: 'https://api.yeshtery.com/v1/yeshtery/files/67/20412-1-651626b19f504593a70a9ef071d11fd1-38911ff4ded64670991abe92ca3ae8c2.jpg?width=258&height=254',
+          location: 'Pickup From Any Place'
       },
       {
           logo: "https://turbologo.com/articles/wp-content/uploads/2019/07/Three-Bars-adidas-logo-1.jpg.webp",
@@ -58,8 +58,8 @@ export const data = [{
           salePercent:"50",
           size: ['Small', 'Medium', 'Large', 'XLarge', 'XXLarge'],
           color: ['Black', 'white'],
-          img: 'https://i.pinimg.com/736x/e9/66/77/e9667798dcaa2d34130c4c40e6f9bb65--adidas-clothes-adidas-mens-clothing.jpg',
-          location: 'Pickup From Mall of Egypt'
+          img: 'https://api.yeshtery.com/v1/yeshtery/files/67/20368-2-1af94c9cbd464b09919e860fa4bd936e-1651a498b73542bfb17d1941d0f6e2a1.jpg?width=258&height=254',
+          location: 'Pickup From Any Place'
       },
       {   
           logo: "https://turbologo.com/articles/wp-content/uploads/2019/07/Three-Bars-adidas-logo-1.jpg.webp",
@@ -73,6 +73,6 @@ export const data = [{
           size: ['Small', 'Medium', 'Large', 'XLarge', 'XXLarge'],
           color: ['Black', 'white'],
           img: 'https://api.yeshtery.com/v1/yeshtery/files/31/bb6a28f6-b359-4b02-b468-826bd29e23a4.jpeg?width=258&height=254',
-          location: 'Pickup From Mall of Egypt'
+          location: 'Pickup From Any Place'
       }]
   }];

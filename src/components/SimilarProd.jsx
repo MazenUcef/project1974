@@ -13,7 +13,7 @@ class SimilarProd extends Component {
                     <Suspense fallback={<div>Loading.....</div>}>
                         <div className='cards'>
                             {
-                                data[0].similarProducts.map(el => {
+                                data[0].similarProducts.map(el => { 
                                     return <Card prod={el}/>
                                 })
                             }

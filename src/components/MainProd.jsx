@@ -46,8 +46,21 @@ class MainProd extends Component {
             <section className='product container'>
                 <div className='left'>
                     <img src={data[0].selectedProduct.img[2]} alt='Prod'/>
-                    <img className='img360' src={imagx} alt='Prod'/>
-                    
+                    <img className='imgx' src={imagx} alt='Prod'/>
+                    <div class="small-img-group mt-2 gap-5">
+                    <div class="small-img-col">
+                        <img src={data[0].selectedProduct.img[1]} width="100%" class="small-img" alt=""/>
+                    </div>
+                    <div class="small-img-col">
+                        <img src={data[0].selectedProduct.img[3]} width="100%" class="small-img" alt=""/>
+                    </div>
+                    <div class="small-img-col">
+                        <img src={data[0].selectedProduct.img[2]} width="100%" class="small-img" alt=""/>
+                    </div>
+                    <div class="small-img-col">
+                        <img src={data[0].selectedProduct.img[4]} width="100%" class="small-img" alt=""/>
+                    </div>
+                    </div>
                 </div>
                 <div className='right'>
                     <div>
