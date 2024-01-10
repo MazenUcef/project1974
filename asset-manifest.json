@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project1974/static/css/main.1c9db2a5.css",
+    "main.js": "/project1974/static/js/main.31b7f890.js",
+    "static/js/656.1f42ec08.chunk.js": "/project1974/static/js/656.1f42ec08.chunk.js",
+    "static/media/adidas.jpg": "/project1974/static/media/adidas.f45e05c07881a8150588.jpg",
+    "static/media/images.jpg": "/project1974/static/media/images.27788fa61967c0743ce7.jpg",
+    "static/media/visa.jpg": "/project1974/static/media/visa.af0210acdb076e2f58f3.jpg",
+    "static/media/logo.jpg": "/project1974/static/media/logo.dba4038eefbca97673ad.jpg",
+    "static/media/logo.svg": "/project1974/static/media/logo.83fa84465a59fb3b307c809ee4b13fe1.svg",
+    "static/media/Group 1439.svg": "/project1974/static/media/Group 1439.cd01cf193d6315d151c4ede0292c291d.svg",
+    "static/media/Group 1433.svg": "/project1974/static/media/Group 1433.bcd0ae0c16c6c9cdbb73cf3d7bcfbb2d.svg",
+    "index.html": "/project1974/index.html",
+    "static/media/Group 1435.svg": "/project1974/static/media/Group 1435.34d2e34f12c5138426f06e48b4263a87.svg",
+    "static/media/Path 772.svg": "/project1974/static/media/Path 772.5b7a66582237dfb8f562727f554f86dc.svg",
+    "static/media/Group 1434.svg": "/project1974/static/media/Group 1434.3e2a02b2b0f8224845c77420474def13.svg",
+    "static/media/Group 1432.svg": "/project1974/static/media/Group 1432.8064e21855545bca9f10b5856dc425dc.svg",
+    "main.1c9db2a5.css.map": "/project1974/static/css/main.1c9db2a5.css.map",
+    "main.31b7f890.js.map": "/project1974/static/js/main.31b7f890.js.map",
+    "656.1f42ec08.chunk.js.map": "/project1974/static/js/656.1f42ec08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9db2a5.css",
+    "static/js/main.31b7f890.js"
+  ]
+}
