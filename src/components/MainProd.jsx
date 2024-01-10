@@ -45,7 +45,7 @@ class MainProd extends Component {
             <Slots/>
             <section className='product container'>
                 <div className='left'>
-                    <img src={data[0].selectedProduct.img[2]} alt='Prod'/>
+                    <img src={data[0].selectedProduct.img[3]} alt='Prod'/>
                     <img className='imgx' src={imagx} alt='Prod'/>
                     <div class="small-img-group mt-2 gap-5">
                     <div class="small-img-col">
